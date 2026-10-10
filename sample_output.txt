@@ -1,0 +1,5 @@
+Oct  9 08:40:38 sysadmin-host kernel: [    0.000000] NUMA: Failed to initialise from firmware
+Oct  9 08:40:38 sysadmin-host kernel: [    0.414087] GPT: Use GNU Parted to correct GPT errors.
+Oct  9 08:40:38 sysadmin-host kernel: [    3.564257] EXT4-fs (sda1): re-mounted. Opts: discard,errors=remount-ro. Quota mode: none.
+Oct  9 08:40:38 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Oct  9 08:40:38 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (timer based) being skipped.
