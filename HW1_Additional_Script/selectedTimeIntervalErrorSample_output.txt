@@ -1,9 +1,0 @@
-Oct 11 11:43:12 sysadmin-host kernel: [    0.000000] NUMA: Failed to initialise from firmware
-Oct 11 11:43:12 sysadmin-host kernel: [    3.560012] EXT4-fs (sda1): re-mounted. Opts: discard,errors=remount-ro. Quota mode: none.
-Oct 11 11:43:12 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
-Oct 11 11:43:12 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (timer based) being skipped.
-Oct 11 11:43:12 sysadmin-host systemd[1]: Started Download data for packages that failed at package install time.
-Oct 11 11:43:12 sysadmin-host systemd[1]: Starting GRUB failed boot detection...
-Oct 11 11:43:12 sysadmin-host systemd[1]: Finished GRUB failed boot detection.
-Oct 11 11:48:17 sysadmin-host systemd[1]: Starting Download data for packages that failed at package install time...
-Oct 11 11:48:17 sysadmin-host systemd[1]: Finished Download data for packages that failed at package install time.
